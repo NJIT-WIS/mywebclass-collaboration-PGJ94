@@ -23,13 +23,13 @@ theirs. The end result is that each partner should have the experience of the te
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
 1. Partner 1: [piljang](https://github.com/pgj94) <-change to you or your partner
-2. Partner 2: [kwilliam](https://github.com/kaw393939) <-change to you or your partner
+2. Partner 2: [Michael](https://github.com/MDEllis73) <-change to you or your partner
 3. Partner 3: Optional
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
 you are updating just the [readme.md](readme.md) file, you won't see any changes on localhost. But maybe you can
 practice with your partner to do something that will result in localhost having a visible change. When you and your
-partners have your readme files updated to show your names and a link to your GitHub profile, you should turn your
+partners have your readme files updated to show your names and a link tgtio your GitHub profile, you should turn your
 respective GitHub repos into Canvas.
 
 [![Click to Start Assignment](module_content/images/start.png)](https://classroom.github.com/a/xTaOHU_V)

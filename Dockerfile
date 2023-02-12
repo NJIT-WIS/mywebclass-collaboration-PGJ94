@@ -8,5 +8,5 @@ ENV APP=main.py
 WORKDIR /home/myuser
 COPY --chown=myuser:myuser . .
 RUN pip3 install -r requirements.txt
-ENTRYPOINT ["runuser", "-u", "myuser", "--", "python3", "app/_init_.py"]
+ENTRYPOINT ["runuser", "-u", "myuser", "--", "python3", "app/__init__.py"]
 CMD ["keith"]
